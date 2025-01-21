@@ -1,0 +1,36 @@
+.el-tabs__item.is-active {
+  color: var(--active-color);
+  background-color: var(--active-bg-color);
+}
+.el-tabs__active-bar {
+  background-color: var(--active-color);
+}
+body{
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  background-color: #0A091C;
+  box-sizing: border-box;
+}
+.login_top {
+  margin-top: 15px;
+}
+
+ .btn_active {
+  background-color: #1AE28E;
+  color: #121212;
+  }
+  .inactive {
+  background-color: #8DF1C7;
+  color: rgba(18, 18, 18, 0.5);
+  }
+  .pointer_txt{
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    user-select: none;
+  }
+
+button {
+  border: none;
+  background-color: transparent;
+}
