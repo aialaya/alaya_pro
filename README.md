@@ -1,6 +1,5 @@
 ![logo](docs/img/logo.png)
 # Innovate, Integrate, Iterate — Introducing Alaya AI Pro
-___
 
 #### Get ready for advanced Web3-native data labelling! After months of development and testing, we are proud to announce the upcoming release of Alaya AI Pro, an advanced data labelling toolset for pixel-level image annotation and segmentation directly accessible to Web3 users.
 
@@ -44,6 +43,6 @@ ___
 
 
 ## Conclusion
-___
+
 
 The release of Alaya AI Pro marks a significant step forward for the Web3 AI industry by unlocking advanced data labelling features that are previously available only through large scale enterprise data solutions at premium prices. By making advanced pixel-level data annotation and segmentation tools directly available to distributed Web3 data communities, Alaya AI Pro significantly enhances the data labelling capability and competitiveness of the Web3 AI sector while reducing data costs across both Web2 and Web3 AI domains by maximising the utility of idle time through distributed contributor networks.
